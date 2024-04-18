@@ -1,0 +1,47 @@
+
+/* Style for the container div */
+.text-center {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+/* Style for the heading */
+h2 {
+  margin-bottom: 2rem;
+  margin-top: 2px;
+}
+
+/* Style for the buttons */
+.btn {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+
+}
+
+/* Style for the container div */
+.text-center {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+/* Style for the heading */
+h2 {
+    margin-bottom: 2rem;
+}
+
+/* Style for the buttons */
+.btn {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+/* Style for the container div */
+.text-center {
+  text-align: center;
+  margin-top: 3rem;
+  background-color: #f4caca; /* Light gray background color */
+  padding: 2rem; /* Add padding to the container */
+  border-radius: 1px; /* Add a border radius for rounded corners */
+
+}
